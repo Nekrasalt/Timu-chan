@@ -34,7 +34,7 @@ li {
 }
 /* start of con1 */
 .con1 {
-  background-image: url(/images/back2.jpg);
+  background-image: url(images/back2.jpg);
   background-size: cover;
   height: 69vh;
   background-position: bottom;
@@ -127,18 +127,18 @@ li {
   opacity: 0.5;
 }
 .img1 {
-  background: url(/images/robin-can-wait-until-hugo-strange-casting-announcement-1574685663.jpg);
+  background: url(images/robin-can-wait-until-hugo-strange-casting-announcement-1574685663.jpg);
   background-size: cover;
   background-position: 50%;
 }
 
 .img2 {
-  background: url(/images/joker-killing-joke.webp);
+  background: url(images/joker-killing-joke.webp);
   background-position: 30%;
   background-size: cover;
 }
 .img3 {
-  background: url(/images/jeremy-putman.jpg);
+  background: url(images/jeremy-putman.jpg);
   background-position: 20%;
   background-size: cover;
 }
